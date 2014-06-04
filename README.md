@@ -19,15 +19,15 @@ Features:
 4) Find all songs having given input chord progression(absolute)    
 5) Find all songs having given input chord progression(relative)  
 6) Show detailed information about a given song:  
-	a) Song Chords  
-	b) Graph showing chord usage  
-	c) Valence score of song based on lyrics  
-	d) Valence of each distinct chord on the given song  
-	e) Suggestions of songs having similar chord progression (realtive, absolute)  
-	f) Genre of song  
-	g) Key of song  
-	h) Spotify link to song  
-	j) Link to ultimate-guitar.com tab of song  
-	i) Wordshift graph for the song based on selectable baselines  
-	h) Facility to modify tabs via visual editor  
+		a) Song Chords  
+		b) Graph showing chord usage  
+		c) Valence score of song based on lyrics  
+		d) Valence of each distinct chord on the given song  
+		e) Suggestions of songs having similar chord progression (realtive, absolute)  
+		f) Genre of song  
+		g) Key of song  
+		h) Spotify link to song  
+		j) Link to ultimate-guitar.com tab of song  
+		i) Wordshift graph for the song based on selectable baselines  
+		h) Facility to modify tabs via visual editor  
 
